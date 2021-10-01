@@ -21,15 +21,15 @@
     left: .1em;
   }
   .heroes li.selected {
-    background-color: black;
+    background-color: darkgray;
     color: white;
   }
   .heroes li.selected:hover {
-    background-color: #505050;
+    background-color: rgb(150, 150, 150);
     color: white;
   }
   .heroes li.selected:active {
-    background-color: black;
+    background-color: darkgray;
     color: white;
   }
   .heroes .badge {
